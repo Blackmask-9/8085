@@ -1,2 +1,3 @@
 # 8085
-#This is al about programming inn 8085 microprocessor
+#This is all about programming in assembly language for 8085 microprocessor;
+-Blackmask
